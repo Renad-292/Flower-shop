@@ -1,0 +1,10 @@
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)) ,url(../image/background.jfif);
+    background-position: center;
+    background-size: cover;
+}
